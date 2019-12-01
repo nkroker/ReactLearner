@@ -1,0 +1,17 @@
+{
+  "name": "streaming_service",
+  "private": true,
+  "dependencies": {
+    "@babel/preset-react": "^7.7.4",
+    "@rails/webpacker": "^4.2.0",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
+    "bootstrap": "^4.4.1",
+    "prop-types": "^15.7.2",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0",
+    "styled-components": "^4.4.1"
+  },
+  "devDependencies": {
+    "webpack-dev-server": "^3.9.0"
+  }
+}
