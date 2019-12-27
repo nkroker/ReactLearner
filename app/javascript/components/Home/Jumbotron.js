@@ -44,7 +44,7 @@ const Jumbotron = () => {
             <div className="row">
                 <div className="col col-sm-12 col-md-5">
                     <div className="pt-4 mt-4">
-                        <Header>React for Rails Developers</Header>
+                        <Header>Nikhil Kumar</Header>
                         <p>Supercharge your ROR apps with React.js</p>
                         <div className="cta-wrapper">
                             <Button className="btn fancy-btn">Get Started</Button>
@@ -52,9 +52,9 @@ const Jumbotron = () => {
                     </div>
                 </div>
                 <div className="col col-sm-12 col-md-7">
-                <div className="pt-4 mt-4 text-center">
-                <iframe width="560" height="315" src="https://www.youtube.com/embed/B0SxxHAImhc" frameBorder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowFullScreen></iframe>
-                </div>
+                    <div className="pt-0 mt-2 text-center">
+                        <img src="https://www.athmin.com/img/hiredeveloper/gif/react.gif"></img>
+                    </div>
                 </div>
             </div>
         </div>
